@@ -1,28 +1,3 @@
-"""
-MyFCD (Malaysian Food Composition Database) detail-page scraper — Phase 1.
-
-Confirmed against real pages (R101070, R101061): detail pages are static
-HTML, no JS rendering needed.
-
-URL pattern:
-https://myfcd.moh.gov.my/myfcdcurrent/index.php/site/detail_product/{CODE}/0/10/-1/0/0/
-
-Page structure confirmed:
-- Title line: "BISCUIT, MARIE  R101070" (name + code together, split by 2+ spaces)
-- A small info table with Source / Published Date
-- The main nutrient table: columns are Nutrient | Unit | Value per 100g | per-serving
-  - Section header rows ("Proximates", "Minerals", "Vitamins", etc.) have only
-    one non-empty cell — these are skipped
-  - Not every food has every section (e.g. R101061 only has Proximates) —
-    handled fine since we just walk whatever rows exist
-
-Usage:
-    1. Save your listing JSON (from the Network tab) as codes.json, OR
-       just hardcode a list of codes in CODES below.
-    2. Run: python myfcd_scraper.py
-    3. Output: myfcd_data.json
-"""
-
 import requests
 from bs4 import BeautifulSoup
 import re
