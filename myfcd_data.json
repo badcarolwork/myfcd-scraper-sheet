@@ -1,0 +1,1047 @@
+[
+  {
+    "code": "R106113",
+    "name": "POMEGRANATE (DELIMA)",
+    "serving_label": "1 half [ 174.6933 g ]",
+    "serving_grams": 174.6933,
+    "nutrients": {
+      "Energy": {
+        "unit": "Kcal",
+        "per_100g": "80",
+        "per_serving": null
+      },
+      "Water": {
+        "unit": "g",
+        "per_100g": "82.5",
+        "per_serving": null
+      },
+      "Protein": {
+        "unit": "g",
+        "per_100g": "1.53",
+        "per_serving": null
+      },
+      "Fat": {
+        "unit": "g",
+        "per_100g": "0.8",
+        "per_serving": null
+      },
+      "Carbohydrate": {
+        "unit": "g",
+        "per_100g": "14.4",
+        "per_serving": null
+      },
+      "Total dietary fibre": {
+        "unit": "g",
+        "per_100g": "4.5",
+        "per_serving": null
+      },
+      "Ash": {
+        "unit": "g",
+        "per_100g": "0.8",
+        "per_serving": null
+      },
+      "Total sugars": {
+        "unit": "g",
+        "per_100g": "10.7",
+        "per_serving": null
+      },
+      "Glucose": {
+        "unit": "g",
+        "per_100g": "5.42",
+        "per_serving": null
+      },
+      "Fructose": {
+        "unit": "g",
+        "per_100g": "5.28",
+        "per_serving": null
+      },
+      "Calcium": {
+        "unit": "mg",
+        "per_100g": "12",
+        "per_serving": null
+      },
+      "Iron, Fe": {
+        "unit": "mg",
+        "per_100g": "0.17",
+        "per_serving": null
+      },
+      "Magnesium, Mg": {
+        "unit": "mg",
+        "per_100g": "14",
+        "per_serving": null
+      },
+      "Phosphorus, P": {
+        "unit": "mg",
+        "per_100g": "31",
+        "per_serving": null
+      },
+      "Potassium, K": {
+        "unit": "mg",
+        "per_100g": "154",
+        "per_serving": null
+      },
+      "Sodium, Na": {
+        "unit": "mg",
+        "per_100g": "21",
+        "per_serving": null
+      },
+      "Zinc, Zn": {
+        "unit": "mg",
+        "per_100g": "0.37",
+        "per_serving": null
+      },
+      "Copper, Cu": {
+        "unit": "μg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Selenium, Se": {
+        "unit": "μg",
+        "per_100g": "2",
+        "per_serving": null
+      },
+      "Manganese, Mn": {
+        "unit": "μg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Vitamin C": {
+        "unit": "mg",
+        "per_100g": "5.1",
+        "per_serving": null
+      },
+      "Choline": {
+        "unit": "mg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Fatty acids, total saturated": {
+        "unit": "g",
+        "per_100g": "0.3",
+        "per_serving": null
+      },
+      "Fatty acids, total monounsaturated": {
+        "unit": "g",
+        "per_100g": "0.333",
+        "per_serving": null
+      },
+      "Fatty acids, total polyunsaturated": {
+        "unit": "g",
+        "per_100g": "0.033",
+        "per_serving": null
+      },
+      "Fatty acids, total trans": {
+        "unit": "g",
+        "per_100g": "0.1",
+        "per_serving": null
+      },
+      "Cholesterol": {
+        "unit": "mg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 13:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 8:0": {
+        "unit": "g",
+        "per_100g": "0.016",
+        "per_serving": null
+      },
+      "C 10:0": {
+        "unit": "g",
+        "per_100g": "0.014",
+        "per_serving": null
+      },
+      "C 12:0": {
+        "unit": "g",
+        "per_100g": "0.142",
+        "per_serving": null
+      },
+      "C 14:0": {
+        "unit": "g",
+        "per_100g": "0.038",
+        "per_serving": null
+      },
+      "C 15:0": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 17:0": {
+        "unit": "g",
+        "per_100g": "0.03",
+        "per_serving": null
+      },
+      "C 16:0": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 20:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 18:0": {
+        "unit": "g",
+        "per_100g": "0.071",
+        "per_serving": null
+      },
+      "C 14:1": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 15:1": {
+        "unit": "g",
+        "per_100g": "0.31",
+        "per_serving": null
+      },
+      "C 17:1": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 16:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 18:1, cis n-9": {
+        "unit": "g",
+        "per_100g": "0.009",
+        "per_serving": null
+      },
+      "C 20:2": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:3": {
+        "unit": "g",
+        "per_100g": "0.007",
+        "per_serving": null
+      },
+      "C 18:2, cis, n-6": {
+        "unit": "g",
+        "per_100g": "0.059",
+        "per_serving": null
+      },
+      "C 18:3, cis, n-3": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      }
+    },
+    "source_url": "https://myfcd.moh.gov.my/myfcdcurrent/index.php/site/detail_product/R106113/0/10/-1/0/0/"
+  },
+  {
+    "code": "R106073",
+    "name": "LYCHEE IN TIN",
+    "serving_label": "1 BOWL [ 337.1 g ]",
+    "serving_grams": 337.1,
+    "nutrients": {
+      "Energy": {
+        "unit": "Kcal",
+        "per_100g": "114",
+        "per_serving": null
+      },
+      "Water": {
+        "unit": "g",
+        "per_100g": "71.17",
+        "per_serving": null
+      },
+      "Protein": {
+        "unit": "g",
+        "per_100g": "0.13",
+        "per_serving": null
+      },
+      "Fat": {
+        "unit": "g",
+        "per_100g": "0.02",
+        "per_serving": null
+      },
+      "Carbohydrate": {
+        "unit": "g",
+        "per_100g": "28.41",
+        "per_serving": null
+      },
+      "Total dietary fibre": {
+        "unit": "g",
+        "per_100g": "0.2",
+        "per_serving": null
+      },
+      "Ash": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Total sugars": {
+        "unit": "g",
+        "per_100g": "2.89",
+        "per_serving": null
+      },
+      "Sucrose": {
+        "unit": "g",
+        "per_100g": "0.12",
+        "per_serving": null
+      },
+      "Glucose": {
+        "unit": "g",
+        "per_100g": "1.4",
+        "per_serving": null
+      },
+      "Fructose": {
+        "unit": "g",
+        "per_100g": "1.37",
+        "per_serving": null
+      },
+      "Lactose": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Maltose": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      }
+    },
+    "source_url": "https://myfcd.moh.gov.my/myfcdcurrent/index.php/site/detail_product/R106073/0/10/-1/0/0/"
+  },
+  {
+    "code": "R106051",
+    "name": "HONEYDEW (TEMBIKAI SUSU)",
+    "serving_label": "1 slice [ 165.7475 g ]",
+    "serving_grams": 165.7475,
+    "nutrients": {
+      "Energy": {
+        "unit": "Kcal",
+        "per_100g": "24",
+        "per_serving": null
+      },
+      "Water": {
+        "unit": "g",
+        "per_100g": "94.5",
+        "per_serving": null
+      },
+      "Protein": {
+        "unit": "g",
+        "per_100g": "0.35",
+        "per_serving": null
+      },
+      "Fat": {
+        "unit": "g",
+        "per_100g": "0.35",
+        "per_serving": null
+      },
+      "Carbohydrate": {
+        "unit": "g",
+        "per_100g": "4.33",
+        "per_serving": null
+      },
+      "Total dietary fibre": {
+        "unit": "g",
+        "per_100g": "0.9",
+        "per_serving": null
+      },
+      "Ash": {
+        "unit": "g",
+        "per_100g": "0.5",
+        "per_serving": null
+      },
+      "Total sugars": {
+        "unit": "g",
+        "per_100g": "3.55",
+        "per_serving": null
+      },
+      "Glucose": {
+        "unit": "g",
+        "per_100g": "1.31",
+        "per_serving": null
+      },
+      "Fructose": {
+        "unit": "g",
+        "per_100g": "1.61",
+        "per_serving": null
+      },
+      "Sucrose": {
+        "unit": "g",
+        "per_100g": "1.27",
+        "per_serving": null
+      },
+      "Calcium": {
+        "unit": "mg",
+        "per_100g": "10",
+        "per_serving": null
+      },
+      "Iron, Fe": {
+        "unit": "mg",
+        "per_100g": "0.18",
+        "per_serving": null
+      },
+      "Magnesium, Mg": {
+        "unit": "mg",
+        "per_100g": "10",
+        "per_serving": null
+      },
+      "Phosphorus, P": {
+        "unit": "mg",
+        "per_100g": "13",
+        "per_serving": null
+      },
+      "Potassium, K": {
+        "unit": "mg",
+        "per_100g": "93",
+        "per_serving": null
+      },
+      "Sodium, Na": {
+        "unit": "mg",
+        "per_100g": "24",
+        "per_serving": null
+      },
+      "Zinc, Zn": {
+        "unit": "mg",
+        "per_100g": "0.23",
+        "per_serving": null
+      },
+      "Copper, Cu": {
+        "unit": "μg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Selenium, Se": {
+        "unit": "μg",
+        "per_100g": "1",
+        "per_serving": null
+      },
+      "Manganese, Mn": {
+        "unit": "μg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Vitamin C": {
+        "unit": "mg",
+        "per_100g": "2.6",
+        "per_serving": null
+      },
+      "Choline": {
+        "unit": "mg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Fatty acids, total saturated": {
+        "unit": "g",
+        "per_100g": "0.075",
+        "per_serving": null
+      },
+      "Fatty acids, total monounsaturated": {
+        "unit": "g",
+        "per_100g": "0.225",
+        "per_serving": null
+      },
+      "Fatty acids, total polyunsaturated": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Fatty acids, total trans": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Cholesterol": {
+        "unit": "mg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 13:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 8:0": {
+        "unit": "g",
+        "per_100g": "0.004",
+        "per_serving": null
+      },
+      "C 10:0": {
+        "unit": "g",
+        "per_100g": "0.005",
+        "per_serving": null
+      },
+      "C 12:0": {
+        "unit": "g",
+        "per_100g": "0.038",
+        "per_serving": null
+      },
+      "C 14:0": {
+        "unit": "g",
+        "per_100g": "0.024",
+        "per_serving": null
+      },
+      "C 15:0": {
+        "unit": "g",
+        "per_100g": "0.002",
+        "per_serving": null
+      },
+      "C 17:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 16:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 18:0": {
+        "unit": "g",
+        "per_100g": "0.022",
+        "per_serving": null
+      },
+      "C 14:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 15:1": {
+        "unit": "g",
+        "per_100g": "0.216",
+        "per_serving": null
+      },
+      "C 17:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 16:1": {
+        "unit": "g",
+        "per_100g": "0.01",
+        "per_serving": null
+      },
+      "C 18:1, cis n-9": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:2": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:3": {
+        "unit": "g",
+        "per_100g": "0.002",
+        "per_serving": null
+      },
+      "C 18:2, cis, n-6": {
+        "unit": "g",
+        "per_100g": "0.004",
+        "per_serving": null
+      },
+      "C 18:3, cis, n-3": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      }
+    },
+    "source_url": "https://myfcd.moh.gov.my/myfcdcurrent/index.php/site/detail_product/R106051/0/10/-1/0/0/"
+  },
+  {
+    "code": "R106036",
+    "name": "DRAGON FRUIT, WHITE (BUAH NAGA, ISI PUTIH)",
+    "serving_label": "1 half [ 246.355 g ]",
+    "serving_grams": 246.355,
+    "nutrients": {
+      "Energy": {
+        "unit": "Kcal",
+        "per_100g": "53",
+        "per_serving": null
+      },
+      "Water": {
+        "unit": "g",
+        "per_100g": "87.05",
+        "per_serving": null
+      },
+      "Protein": {
+        "unit": "g",
+        "per_100g": "1.6",
+        "per_serving": null
+      },
+      "Fat": {
+        "unit": "g",
+        "per_100g": "0.15",
+        "per_serving": null
+      },
+      "Carbohydrate": {
+        "unit": "g",
+        "per_100g": "10.55",
+        "per_serving": null
+      },
+      "Total dietary fibre": {
+        "unit": "g",
+        "per_100g": "1.1",
+        "per_serving": null
+      },
+      "Ash": {
+        "unit": "g",
+        "per_100g": "0.7",
+        "per_serving": null
+      },
+      "Total sugars": {
+        "unit": "g",
+        "per_100g": "8.5",
+        "per_serving": null
+      },
+      "Glucose": {
+        "unit": "g",
+        "per_100g": "5.48",
+        "per_serving": null
+      },
+      "Fructose": {
+        "unit": "g",
+        "per_100g": "2.08",
+        "per_serving": null
+      },
+      "Maltose": {
+        "unit": "g",
+        "per_100g": "0.94",
+        "per_serving": null
+      },
+      "Calcium": {
+        "unit": "mg",
+        "per_100g": "8",
+        "per_serving": null
+      },
+      "Iron, Fe": {
+        "unit": "mg",
+        "per_100g": "0.2",
+        "per_serving": null
+      },
+      "Magnesium, Mg": {
+        "unit": "mg",
+        "per_100g": "27",
+        "per_serving": null
+      },
+      "Phosphorus, P": {
+        "unit": "mg",
+        "per_100g": "25",
+        "per_serving": null
+      },
+      "Potassium, K": {
+        "unit": "mg",
+        "per_100g": "182",
+        "per_serving": null
+      },
+      "Sodium, Na": {
+        "unit": "mg",
+        "per_100g": "17",
+        "per_serving": null
+      },
+      "Zinc, Zn": {
+        "unit": "mg",
+        "per_100g": "0.45",
+        "per_serving": null
+      },
+      "Copper, Cu": {
+        "unit": "μg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Selenium, Se": {
+        "unit": "μg",
+        "per_100g": "3",
+        "per_serving": null
+      },
+      "Manganese, Mn": {
+        "unit": "μg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Vitamin C": {
+        "unit": "mg",
+        "per_100g": "2.6",
+        "per_serving": null
+      },
+      "Choline": {
+        "unit": "mg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Fatty acids, total saturated": {
+        "unit": "g",
+        "per_100g": "0.05",
+        "per_serving": null
+      },
+      "Fatty acids, total monounsaturated": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Fatty acids, total polyunsaturated": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Fatty acids, total trans": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Cholesterol": {
+        "unit": "mg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 13:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 8:0": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 10:0": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 12:0": {
+        "unit": "g",
+        "per_100g": "0.009",
+        "per_serving": null
+      },
+      "C 17:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 14:0": {
+        "unit": "g",
+        "per_100g": "0.007",
+        "per_serving": null
+      },
+      "C 15:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 16:0": {
+        "unit": "g",
+        "per_100g": "0.043",
+        "per_serving": null
+      },
+      "C 18:0": {
+        "unit": "g",
+        "per_100g": "0.011",
+        "per_serving": null
+      },
+      "C 14:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 17:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 15:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 16:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 18:1, cis n-9": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:2": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:3": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 18:2, cis, n-6": {
+        "unit": "g",
+        "per_100g": "0.013",
+        "per_serving": null
+      },
+      "C 18:3, cis, n-3": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      }
+    },
+    "source_url": "https://myfcd.moh.gov.my/myfcdcurrent/index.php/site/detail_product/R106036/0/10/-1/0/0/"
+  },
+  {
+    "code": "R106035",
+    "name": "DRAGON FRUIT, RED (BUAH NAGA, ISI MERAH)",
+    "serving_label": "1 half [ 406.2833 g ]",
+    "serving_grams": 406.2833,
+    "nutrients": {
+      "Energy": {
+        "unit": "Kcal",
+        "per_100g": "51",
+        "per_serving": null
+      },
+      "Water": {
+        "unit": "g",
+        "per_100g": "86.77",
+        "per_serving": null
+      },
+      "Protein": {
+        "unit": "g",
+        "per_100g": "1.37",
+        "per_serving": null
+      },
+      "Fat": {
+        "unit": "g",
+        "per_100g": "0.07",
+        "per_serving": null
+      },
+      "Carbohydrate": {
+        "unit": "g",
+        "per_100g": "10.9",
+        "per_serving": null
+      },
+      "Total dietary fibre": {
+        "unit": "g",
+        "per_100g": "0.9",
+        "per_serving": null
+      },
+      "Ash": {
+        "unit": "g",
+        "per_100g": "0.6",
+        "per_serving": null
+      },
+      "Total sugars": {
+        "unit": "g",
+        "per_100g": "8.4",
+        "per_serving": null
+      },
+      "Glucose": {
+        "unit": "g",
+        "per_100g": "5.21",
+        "per_serving": null
+      },
+      "Fructose": {
+        "unit": "g",
+        "per_100g": "1.53",
+        "per_serving": null
+      },
+      "Maltose": {
+        "unit": "g",
+        "per_100g": "1.64",
+        "per_serving": null
+      },
+      "Calcium": {
+        "unit": "mg",
+        "per_100g": "9",
+        "per_serving": null
+      },
+      "Iron, Fe": {
+        "unit": "mg",
+        "per_100g": "0.13",
+        "per_serving": null
+      },
+      "Magnesium, Mg": {
+        "unit": "mg",
+        "per_100g": "28",
+        "per_serving": null
+      },
+      "Phosphorus, P": {
+        "unit": "mg",
+        "per_100g": "24",
+        "per_serving": null
+      },
+      "Potassium, K": {
+        "unit": "mg",
+        "per_100g": "167",
+        "per_serving": null
+      },
+      "Sodium, Na": {
+        "unit": "mg",
+        "per_100g": "16",
+        "per_serving": null
+      },
+      "Zinc, Zn": {
+        "unit": "mg",
+        "per_100g": "0.47",
+        "per_serving": null
+      },
+      "Copper, Cu": {
+        "unit": "μg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Selenium, Se": {
+        "unit": "μg",
+        "per_100g": "3",
+        "per_serving": null
+      },
+      "Manganese, Mn": {
+        "unit": "μg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Vitamin C": {
+        "unit": "mg",
+        "per_100g": "2.4",
+        "per_serving": null
+      },
+      "Choline": {
+        "unit": "mg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Fatty acids, total saturated": {
+        "unit": "g",
+        "per_100g": "0.033",
+        "per_serving": null
+      },
+      "Fatty acids, total monounsaturated": {
+        "unit": "g",
+        "per_100g": "0.033",
+        "per_serving": null
+      },
+      "Fatty acids, total polyunsaturated": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Fatty acids, total trans": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "Cholesterol": {
+        "unit": "mg",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 13:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 8:0": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 10:0": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 12:0": {
+        "unit": "g",
+        "per_100g": "0.007",
+        "per_serving": null
+      },
+      "C 14:0": {
+        "unit": "g",
+        "per_100g": "0.005",
+        "per_serving": null
+      },
+      "C 15:0": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 17:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 16:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:0": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 18:0": {
+        "unit": "g",
+        "per_100g": "0.018",
+        "per_serving": null
+      },
+      "C 14:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 15:1": {
+        "unit": "g",
+        "per_100g": "0.029",
+        "per_serving": null
+      },
+      "C 17:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 16:1": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 18:1, cis n-9": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:2": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 20:3": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      },
+      "C 18:2, cis, n-6": {
+        "unit": "g",
+        "per_100g": "0.001",
+        "per_serving": null
+      },
+      "C 18:3, cis, n-3": {
+        "unit": "g",
+        "per_100g": "0",
+        "per_serving": null
+      }
+    },
+    "source_url": "https://myfcd.moh.gov.my/myfcdcurrent/index.php/site/detail_product/R106035/0/10/-1/0/0/"
+  }
+]
